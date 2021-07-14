@@ -1,6 +1,7 @@
 # adb_database
 
-University work planning and development of a database with Oracle SQL, which the goal was to store data of several different entities that is connected to film industry. Additionally, we solved some challenges making some scripts to query specific data.
+University work of a database using Oracle SQL, in which the goal was to store data of several different entities connected to the film industry. Additionally, we solved a few challenges making scripts to query specific data.
+
 
 Diagram:
 
